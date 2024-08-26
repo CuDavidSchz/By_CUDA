@@ -1,0 +1,7 @@
+Esta es una prueba de edición para un archivo de texto en la terminal de Mac usando el
+comando nano
+
+Esta es otra prueba editando el archivo de texto usando vim. Creo que me gusta más esta 
+manera.
+Ya no me gusta esta manera, esta más dificil salir :(
+
